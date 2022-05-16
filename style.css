@@ -1,0 +1,29 @@
+button {
+    width: 5vw;
+    height: 10vh;
+    border: solid 3px;
+    border-radius: 3vw;
+    display: inline;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#gray {
+    background-color: gray;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#white {
+    background-color: white;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
